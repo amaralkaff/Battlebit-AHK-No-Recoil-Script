@@ -1,5 +1,7 @@
 # Battlebit-AHK-No-Recoil-Script
 
+<b>Yo, don't forget to hook me up with a head start, bros. ★★★★★ </b>
+
 The provided AutoHotKey (AHK) script is designed to create a "no recoil" effect in a game. The script uses various hotkeys and functions to control the behavior of the script.
 
 To activate the AHK script with the specific controls you mentioned, follow these simplified steps:
