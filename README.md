@@ -1,6 +1,6 @@
 # Battlebit-AHK-No-Recoil-Script
 
-<b><ins>Yoo, don't forget to hook me up with a head stars, bros. ★★★★★ </ins></b>
+<b><ins>Yoo, don't forget to hook me up with a head stars, bros.</ins></b> ★★★★★
 
 ![ezgif com-resize](https://github.com/amaralkaff/Battlebit-AHK-No-Recoil-Script/assets/104537377/42c838ab-46ca-455d-bec6-dc81bf2f7540)
 
