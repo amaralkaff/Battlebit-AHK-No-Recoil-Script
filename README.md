@@ -102,4 +102,3 @@ SaveToINI:
      - Numpad 1: Saves settings to an .ini file
      - Numpad 0: Loads settings from the .ini file (use the proper names as you save and load)
 
-Lupenhagen
