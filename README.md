@@ -2,7 +2,7 @@
 
 <b>Yo, don't forget to hook me up with a head stars, bros. ★★★★★ </b>
 
-
+![ezgif com-resize](https://github.com/amaralkaff/Battlebit-AHK-No-Recoil-Script/assets/104537377/42c838ab-46ca-455d-bec6-dc81bf2f7540)
 
 The provided AutoHotKey (AHK) script is designed to create a "no recoil" effect in a game. The script uses various hotkeys and functions to control the behavior of the script.
 
