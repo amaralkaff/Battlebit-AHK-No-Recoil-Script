@@ -83,7 +83,7 @@ SaveToINI:
 ```
 
 3. Save the script:
-   - Save the file with a ".ahk" extension (e.g., "no_recoil.ahk").
+   - Save the file with a ".ahk" extension (e.g., "Norecoil.ahk").
 
 4. Run the script:
    - Double-click on the saved AHK script file.
