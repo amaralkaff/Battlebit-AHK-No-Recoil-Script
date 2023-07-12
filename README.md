@@ -2,6 +2,8 @@
 
 <b>Yo, don't forget to hook me up with a head stars, bros. ★★★★★ </b>
 
+![](https://im2.ezgif.com/tmp/ezgif-2-1ef6da185e.gif)
+
 The provided AutoHotKey (AHK) script is designed to create a "no recoil" effect in a game. The script uses various hotkeys and functions to control the behavior of the script.
 
 To activate the AHK script with the specific controls you mentioned, follow these simplified steps:
