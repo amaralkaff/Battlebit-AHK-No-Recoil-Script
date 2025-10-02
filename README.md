@@ -11,10 +11,6 @@ To activate the AHK script with the specific controls you mentioned, follow thes
 1. Install AutoHotKey:
    - Download and install AutoHotKey from the official website: https://www.autohotkey.com/
 
-2. Create a new AHK script:
-   - Open a text editor (e.g., Notepad) and create a new file.
-   - Copy and paste the following code into the text file:
-
 ```ahk
 #NoEnv
 #SingleInstance force
@@ -84,14 +80,7 @@ SaveToINI:
     return
 ```
 
-3. Save the script:
-   - Save the file with a ".ahk" extension (e.g., "norecoil.ahk").
-
-4. Run the script:
-   - Double-click on the saved AHK script file.
-   - The script should start running, and an AHK icon will appear in the system tray (usually located near the clock on the taskbar).
-
-5. Test the script:
+2. Test the script:
    - Open a game or any application where you want to use the script.
    - Use the following controls to adjust the script behavior:
      - Page Up: Pulls the mouse down
